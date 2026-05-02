@@ -30,7 +30,7 @@ metadata:
   namespace: tandy-hpc
   labels:
     app: cuda-hello
-    user: tandy-hpc    # <-- edit this line
+    user: caw8061@utulsa.edu    # <-- edit this line
 spec:
   restartPolicy: Never
   containers:
